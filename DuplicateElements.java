@@ -10,7 +10,7 @@ public class DuplicateElements {
 
                 if (inputNumArray[i] == inputNumArray[j]) {
 
-                    System.out.println("Duplicate Element Found: " +inputNumArray[i]);
+                    System.out.println("Duplicate Element Founds: " +inputNumArray[i]);
                 }
             }
         }
