@@ -1,4 +1,4 @@
-package com.blz.thirdday;
+package com.blz.thirddays;
 
 public class DuplicateElements {
     public static void main(String[] args) {
